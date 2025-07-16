@@ -1,0 +1,4 @@
+Student Иван 20 3
+Teacher Анна 45 Математика
+Manager Олег 35 Отдел_кадров
+Applicant Мария 18 4.5

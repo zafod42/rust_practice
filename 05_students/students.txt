@@ -1,0 +1,44 @@
+Student Alex
+History 4.56
+History 2.54
+History 1.15
+Math 0.23
+Math 0.56
+Student Bill
+Physics 2.68
+Math 3.39
+
+
+Student Bobby
+Science 1.07
+
+
+Student Robert
+Physics 1.14
+History 1.08
+Physics 1.38
+History 4.97
+Student Paul
+Physics 3.84
+
+
+Student Stephany
+History 1.87
+Physics 4.75
+Physics 4.3
+Science 0.38
+History 2.84
+Math 0.42
+Student Dmitri
+Math 0.45
+Math 1.73
+Physics 3.37
+
+
+Student Nicolas
+History 3.87
+Physics 0.45
+Science 0.21
+Math 1.49
+Math 3.87
+Physics 1.47

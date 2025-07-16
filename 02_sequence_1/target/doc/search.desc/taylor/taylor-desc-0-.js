@@ -1,0 +1,1 @@
+searchState.loadedDescShard("taylor", 0, "Функция вычисления ряда Тейлора")
